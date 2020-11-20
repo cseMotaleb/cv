@@ -20,7 +20,9 @@
 /*
 	1. Basic
 */
-
+div#map {
+    display: none;
+}
 html {
 	margin-right: 0!important;
 }
